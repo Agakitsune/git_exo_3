@@ -38,3 +38,4 @@ Auteurs :
  - Fabien Rozar
  - toto
  - Nathan Hoareau
+ - Raphael Turpin
